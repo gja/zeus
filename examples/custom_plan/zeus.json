@@ -11,7 +11,8 @@
           "server": ["s"],
           "generate": ["g"],
           "destroy": ["d"],
-          "dbconsole": []
+          "dbconsole": [],
+          "tcp": []
         },
         "test_environment": {
           "cucumber_environment": {"cucumber": []},

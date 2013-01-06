@@ -3,6 +3,7 @@ require 'socket'
 require 'json'
 require 'pty'
 
+require 'zeus/zeus_tcp_server'
 require 'zeus/load_tracking'
 require 'zeus/plan'
 require 'zeus/version'
